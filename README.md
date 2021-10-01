@@ -1,6 +1,6 @@
 # Programmer Test Laravel
 
-Build a Token System using Laravel (microservice-to-microservice)
+Build a Token System using Laravel & Mysql (microservice-to-microservice)
 
 Fork this repo and pull request to main branch as end result
 
