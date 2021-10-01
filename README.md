@@ -2,7 +2,7 @@
 
 Build a Token System using Laravel (microservice-to-microservice)
 
-Clone this repo and push to main branch as end result
+Fork this repo and pull request to main branch as end result
 
 Requirements of the system:
 
