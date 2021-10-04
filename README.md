@@ -35,3 +35,6 @@ Remark
 - Only exposing the .env for this repo due to easy access.
 - In reality, using secret manager for `.env` will be much more better & secure approach.
 
+## Postman
+
+Import from <a id="raw-url" href="https://raw.githubusercontent.com/rf-infinite/programmer-test-laravel/main/pcari.postman_collection.json">Postman collection</a> 
